@@ -7,10 +7,6 @@
 
 ## Hello there :wave:
 
-Learning in progress
-
----
-
 ### :computer: Stack
 
 <div align="center">
