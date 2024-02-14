@@ -11,7 +11,7 @@ Learning in progress
 
 ---
 
-### Stack
+### :computer: Stack
 
 <div align="center">
   <h4>Languages and Frameworks:</h4>
