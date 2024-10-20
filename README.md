@@ -62,6 +62,20 @@
 </div>
 
 <div align="center">
+  <h4>Monitoring & Cybersecurity:</h4>
+
+  ![Veracode](https://img.shields.io/badge/Veracode-4B8BBE?style=for-the-badge&logo=veracode&logoColor=white)
+  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+  ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
+</div>
+
+<div align="center">
+  <h4>Testing & Quality Assurance:</h4>
+
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+</div>
+
+<div align="center">
   <h4>Agile Methodologies Tools:</h4>
 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
