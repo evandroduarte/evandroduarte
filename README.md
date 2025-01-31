@@ -93,13 +93,13 @@
   </a>
 </p>
 
----
+<!--
 
 ### 🔥 My contribution streak
 
 <p align="center"><a href="https://github-readme-streak-stats.herokuapp.com/?user=evandroduarte&theme=monokai-metallian&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=evandroduarte&theme=monokai-metallian&hide_border=true"/></a></p>
 
----
+-->
 
 ### :raising_hand_man: &nbsp;Social
 
